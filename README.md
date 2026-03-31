@@ -64,7 +64,7 @@ cd spring-of-marketer
 
 # 2. 각 서비스별 README 참고하여 환경 세팅
 # 3. 인프라 세팅 (Docker Compose로 전체 서비스 실행)
-cd infra
+cd infra/
 docker-compose up -d
 ```
 
