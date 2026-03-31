@@ -1,4 +1,4 @@
-# Spring of Marketer — Marketing Automation Agent
+# Spring of Marketer — Marketing Automation Agent.
 
 > "입력만 하면 마케팅이 완성된다"
 
